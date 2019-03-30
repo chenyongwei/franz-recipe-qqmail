@@ -1,0 +1,12 @@
+{
+  "id": "qqmail",
+  "name": "QQMail",
+  "version": "1.0.0",
+  "description": "QQ Mail",
+  "main": "index.js",
+  "author": "Yongwei Chen <iamywchen@qq.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://mail.qq.com/cgi-bin/loginpage"
+  }
+}
