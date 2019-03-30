@@ -6,7 +6,7 @@ This recipe only works for Franz 5.X, find it at http://meetfranz.com
 
 ## Installation
 
-1. Clone/download the folder `qqmail`.
+1. Clone/download and rename the folder to `qqmail`.
 
 2. Open the Franz Recipe folder on your machine:
   * Mac: `~/Library/Application Support/Franz/recipes/`
